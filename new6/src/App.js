@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          How to love every thing :)
+          he How to love every thing :)
         </a>
       </header>
     </div>
